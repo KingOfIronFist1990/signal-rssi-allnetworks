@@ -1,0 +1,19 @@
+{
+  "name": "signal-rssi-allnetworks",
+  "version": "0.0.1",
+  "description": "this plugin will determine the signal strength indicator of all networks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingOfIronFist1990/signal-rssi-allnetworks.git"
+  },
+  "author": "rami akermi <akermirami1990@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingOfIronFist1990/signal-rssi-allnetworks/issues"
+  },
+  "homepage": "https://github.com/KingOfIronFist1990/signal-rssi-allnetworks#readme"
+}
